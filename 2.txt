@@ -1,4 +1,4 @@
-print ("Hello World")
-print ("Hello everybody")
-print ("lly")
-print ("lly2")
+print ("Hello World;")
+print ("Hello everybody;")
+print ("lly;")
+print ("lly2;")
